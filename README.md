@@ -1,1 +1,1 @@
-# Leigh_Syndrome_EBI
+# Leigh Syndrome EBI Project
