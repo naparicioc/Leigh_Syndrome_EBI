@@ -58,7 +58,21 @@ Finally, we understood the relationship between Leigh syndrome and renal patholo
 
 ![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/e8f949e5-1fa8-4b40-b350-0c1ab0fcdef7)
 
-We identified the domains for all the proteins encoded by the genes previously discussed. In this way, we found out that the majority of the mutations related to Leigh syndrome and other clinical presentations are mostly located in important domains of protein function and result mostly in protein, mitochondrial complex III [9], and Cytochrome-c oxidase deficiency [10]
+We identified the domains for all the proteins encoded by the genes previously discussed. In this way, we found that most mutations related to Leigh syndrome and other clinical presentations are mostly located in important domains of protein function and result mostly in protein, mitochondrial complex III [9], and Cytochrome-c oxidase deficiency [10].
+
+## The Overall Picture
+
+![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/fbde6b84-22e4-456f-b5ac-0ed1903c4275)
+
+We determined that the metabolism is modulated by four of our focal genes. However, other functions, such as signal transduction, RNA metabolism, etc., are exclusively carried out by individual genes. In particular, we concluded that gene *MT-ATP6* is multifaceted engagement in crucial mitochondrial pathways, highlighting its significance in energy production and RNA processing. Dysregulation may disrupt these fundamental cellular functions, potentially contributing to Leigh Syndrome.
+
+![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/0ebb4370-8ff9-4da0-b52d-a998b4a477d0)
+
+## What about now?
+
+Leigh syndrome is a complex clinical presentation involving different genes that interact in various ways but primarily focus on oxidative phosphorylation process. This work studied five key genes that:
+
+![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/fcbe05e6-b11a-4ae5-aca9-b0daf040376b)
 
 ## References 
 
