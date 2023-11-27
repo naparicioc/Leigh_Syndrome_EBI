@@ -10,6 +10,10 @@ The use of bioinformatics for the study of orphan diseases has gained importance
 
 ![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/2769b04b-eb66-4a63-9409-a068165cbd3f)
 
+## Experimental Design
+
+![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/9a18450e-ad6b-498e-ace6-1d56a49f0f04)
+
 ## References 
 
 [1] Rahman, S., & Thorburn, D. (2015). Nuclear gene-encoded Leigh syndrome overview. GeneReviews®, ed. Seattle, WA: University of Washington.
