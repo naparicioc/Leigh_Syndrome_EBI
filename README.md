@@ -8,12 +8,15 @@ Leigh syndrome involves mutations (point mutations such as substitutions, insert
 
 The use of bioinformatics for the study of orphan diseases has gained importance in recent years, mainly due to the absence of identification of patterns or point mutations that can be categorized as responsible for the disease [3]. Computational tools are crucial for analyzing large sets of genetic and molecular data, facilitating the detection of mutations and genetic variants associated with the disease [4]. Additionally, this discipline helps identify potential therapeutic targets and develop more effective treatments through the analysis of DNA sequences and the identification of genes involved in the pathogenesis of the disease. This work aims to determine the impact of various mutations associated with Leigh syndrome on gene expression, protein function, and interactions, as well as metabolic pathways, to propose future research directions for therapeutic development from a bioinformatic approach.
 
-![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/9dcee985-5fc6-4b31-92fe-9d00b37c64ce)
+![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/2769b04b-eb66-4a63-9409-a068165cbd3f)
 
 ## References 
 
-[1] Rahman, S., & Thorburn, D. (2015). Nuclear gene-encoded Leigh syndrome overview. GeneReviews®, ed. Seattle, WA: University of Washington. \n
-[2] Finsterer, J. (2008). Leigh and Leigh-like syndrome in children and adults. Pediatric neurology, 39(4), 223-235. \n
-[3] Thorburn, D. R., Rahman, J., & Rahman, S. (2017). Mitochondrial DNA-associated Leigh syndrome and NARP. \n
+[1] Rahman, S., & Thorburn, D. (2015). Nuclear gene-encoded Leigh syndrome overview. GeneReviews®, ed. Seattle, WA: University of Washington.
+
+[2] Finsterer, J. (2008). Leigh and Leigh-like syndrome in children and adults. Pediatric neurology, 39(4), 223-235. 
+
+[3] Thorburn, D. R., Rahman, J., & Rahman, S. (2017). Mitochondrial DNA-associated Leigh syndrome and NARP.
+
 [4] Lago Sampedro, A. M., & García Escobar, E. (2022). Importancia de la bioinformática en la medicina actual. Importancia de la bioinformática en la medicina actual. ¿Es realmente necesaria la bioinformática en la práctica clínica?
 
