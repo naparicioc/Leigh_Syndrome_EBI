@@ -12,7 +12,7 @@ The use of bioinformatics for the study of orphan diseases has gained importance
 
 ## References 
 
-[1] Rahman, S., & Thorburn, D. (2015). Nuclear gene-encoded Leigh syndrome overview. GeneReviews®, ed. Seattle, WA: University of Washington.
+[1] Rahman, S., & Thorburn, D. (2015). Nuclear gene-encoded Leigh syndrome overview. GeneReviews®, ed. Seattle, WA: University of Washington. \n
 [2] Finsterer, J. (2008). Leigh and Leigh-like syndrome in children and adults. Pediatric neurology, 39(4), 223-235.
 [3] Thorburn, D. R., Rahman, J., & Rahman, S. (2017). Mitochondrial DNA-associated Leigh syndrome and NARP.
 [4] Lago Sampedro, A. M., & García Escobar, E. (2022). Importancia de la bioinformática en la medicina actual. Importancia de la bioinformática en la medicina actual. ¿Es realmente necesaria la bioinformática en la práctica clínica?
