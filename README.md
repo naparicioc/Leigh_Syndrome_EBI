@@ -16,6 +16,16 @@ The use of bioinformatics for the study of orphan diseases has gained importance
 
 ## Filtering Criteria
 
+Leigh syndrome can be caused by mutations in a large group of genes. Five genes were selected for this study considering the following aspects:
+
+1. The most common genes and the most relevant causes for the manifestation of Leigh syndrome, according to [5].
+
+2. The availability of the information in different bioinformatics tools.
+
+3. Maintaining the heterogeneity of the mutations and the location of the genes at both the nuclear and mitochondrial DNA levels.
+
+Different searches were performed in databases such as Europe PMC by means of the following command lines:
+
 ```
 "Leigh syndrome" date:2019-2023
 ```
@@ -28,6 +38,14 @@ The use of bioinformatics for the study of orphan diseases has gained importance
 "BCS1L" AND "complex III" AND "Leigh" date:2019-2023
 ```
 
+## Chosen Genes and Their Mutations
+
+The following tables display the genes that were considered for this study with reported mutations associated with Leigh syndrome and other clinical presentations.
+
+![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/80b460fe-18b5-42af-9bf8-9af4245d314a)
+
+![image](https://github.com/naparicioc/Leigh_Syndrome_EBI/assets/85712714/4cfb80bf-839c-4b84-9117-4e29cf72b657)
+
 ## References 
 
 [1] Rahman, S., & Thorburn, D. (2015). Nuclear gene-encoded Leigh syndrome overview. GeneReviews®, ed. Seattle, WA: University of Washington.
@@ -37,4 +55,7 @@ The use of bioinformatics for the study of orphan diseases has gained importance
 [3] Thorburn, D. R., Rahman, J., & Rahman, S. (2017). Mitochondrial DNA-associated Leigh syndrome and NARP.
 
 [4] Lago Sampedro, A. M., & García Escobar, E. (2022). Importancia de la bioinformática en la medicina actual. Importancia de la bioinformática en la medicina actual. ¿Es realmente necesaria la bioinformática en la práctica clínica?
+
+[5] Ruhoy, I. S., & Saneto, R. P. (2014). The genetics of Leigh syndrome and its implications for clinical practice and risk management. The application of clinical genetics, 221-234.
+
 
